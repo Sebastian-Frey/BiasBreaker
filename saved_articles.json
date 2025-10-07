@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2025-05-05 12:50:02",
+        "analysis": "Analysis saved to articles/unified_20250505_124929.txt",
+        "url1": "https://www.foxnews.com/politics/president-trump-blasts-courts-getting-way-deportation-agenda",
+        "url2": "https://edition.cnn.com/2025/04/22/politics/abrego-garcia-judge-xinis-justice-that-ends-now/index.html"
+    },
+    {
+        "timestamp": "2025-05-05 16:48:42",
+        "analysis": "Analysis saved to articles/unified_20250505_164750.txt",
+        "url1": "https://www.foxnews.com/politics/two-federal-judges-may-hold-trump-contempt-he-defies-courts-immigration-crackdown",
+        "url2": "https://edition.cnn.com/2025/04/07/politics/supreme-court-deportation-flights-trump/index.html"
+    },
+    {
+        "timestamp": "2025-05-05 16:53:48",
+        "analysis": "Analysis saved to articles/unified_20250505_165303.txt",
+        "url1": "https://edition.cnn.com/2025/04/07/politics/supreme-court-deportation-flights-trump/index.html",
+        "url2": "https://www.foxnews.com/politics/two-federal-judges-may-hold-trump-contempt-he-defies-courts-immigration-crackdown"
+    },
+    {
+        "timestamp": "2025-05-05 17:02:11",
+        "analysis": "Analysis saved to articles/unified_20250505_170056.txt",
+        "url1": "https://edition.cnn.com/2025/04/07/politics/supreme-court-deportation-flights-trump/index.html",
+        "url2": "https://www.foxnews.com/politics/two-federal-judges-may-hold-trump-contempt-he-defies-courts-immigration-crackdown"
+    },
+    {
+        "timestamp": "2025-05-05 17:05:06",
+        "analysis": "Analysis saved to articles/unified_20250505_170412.txt",
+        "url1": "https://edition.cnn.com/2025/03/10/politics/democrats-johnson-budget-shutdown-government/index.html",
+        "url2": "https://www.foxnews.com/politics/these-are-2025-elections-watch-amid-trumps-return-white-house"
+    },
+    {
+        "timestamp": "2025-05-05 17:11:03",
+        "analysis": "Analysis saved to articles/unified_20250505_170827.txt",
+        "url1": "http://foxnews.com/politics/democrats-identity-crisis-youth-revolt-rocks-party-after-trump-comeback",
+        "url2": "https://edition.cnn.com/2025/04/23/politics/trump-presidency-chaos-success-analysis/index.html"
+    },
+    {
+        "timestamp": "2025-05-05 17:16:05",
+        "analysis": "Analysis saved to articles/unified_20250505_171534.txt",
+        "url1": "https://www.foxnews.com/official-polls/fox-news-poll-major-increase-positive-views-border-security",
+        "url2": "https://edition.cnn.com/2025/03/02/economy/how-trumps-immigration-crackdown-could-backfire/index.html"
+    },
+    {
+        "timestamp": "2025-05-05 17:19:45",
+        "analysis": "Analysis saved to articles/unified_20250505_171912.txt",
+        "url1": "https://www.foxnews.com/politics/these-are-2025-elections-watch-amid-trumps-return-white-house",
+        "url2": "https://edition.cnn.com/2025/03/10/politics/democrats-johnson-budget-shutdown-government/index.html"
+    }
+]
