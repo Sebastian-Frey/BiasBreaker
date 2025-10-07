@@ -44,7 +44,7 @@ st.markdown("""
 
 def load_saved_articles():
     # Get absolute path
-    current_dir = os.path.dirname(os.path.dirname(os.path.abspath(_file_)))
+    current_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     saved_file = os.path.join(current_dir, "saved_articles.json")
     
     # Show file path being checked
@@ -141,5 +141,5 @@ def main():
             st.markdown(f"📰 [CNN Article]({article['url1']})")
             st.markdown(f"📰 [Fox News Article]({article['url2']})")
 
-if _name_ == "_main_":
-    main()
+if __name__ == "__main__":
+    main()
